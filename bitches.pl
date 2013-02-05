@@ -1,1 +1,1 @@
-print "yooo"
+print "yooo";
